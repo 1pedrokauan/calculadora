@@ -1,1 +1,1 @@
-Este é o meu fodastico projeto de uma calculadora
+Este é o meu projeto de uma calculadora
