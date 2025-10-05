@@ -1,1 +1,2 @@
-console.log('Arquivo para lógica da calculadoraa!');
+
+console.log('Arquivo para lógica da calculadora!');
